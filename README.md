@@ -1,0 +1,1 @@
+The day is Monday and the date 31st August. Creating this repo to capture my experiences as I delve into the world of coding questions for interview.
